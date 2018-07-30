@@ -1,0 +1,4 @@
+#Mon Jul 30 10:13:20 EEST 2018
+base.0=/home/oleg/AndroidStudioProjects/android/gradleBuild/intermediates/transforms/dexMerger/debug/57
+path.0=classes.dex
+renamed.0=classes.dex

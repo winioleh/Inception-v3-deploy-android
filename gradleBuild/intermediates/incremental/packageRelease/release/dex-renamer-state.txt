@@ -1,0 +1,4 @@
+#Fri Jul 13 15:18:51 EEST 2018
+base.0=/home/oleg/AndroidStudioProjects/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/oleg/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.9.0-rc2.aar/d388b2fbcc8f0fdd2b4650ed9355f802/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7e33b895bce39ad22757ea8a41a3674ff19b9907">
+        <dex dex="/home/oleg/AndroidStudioProjects/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+
+</items>
